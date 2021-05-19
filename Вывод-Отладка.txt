@@ -1,0 +1,87 @@
+﻿"CONTRA.exe" (Win32). Загружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\CONTRA.exe". Символы загружены.
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+"CONTRA.exe" (Win32). Загружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\SDL2_image.dll". Сборка модуля выполнена без символов.
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"CONTRA.exe" (Win32). Загружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\SDL2_ttf.dll". Сборка модуля выполнена без символов.
+"CONTRA.exe" (Win32). Загружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\libfreetype-6.dll". Сборка модуля выполнена без символов.
+"CONTRA.exe" (Win32). Загружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\SDL2.dll". Сборка модуля выполнена без символов.
+"CONTRA.exe" (Win32). Загружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\SDL2.dll". Сборка модуля выполнена без символов.
+"CONTRA.exe" (Win32). Загружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\SDL2.dll". Сборка модуля выполнена без символов.
+"CONTRA.exe" (Win32). Выгружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\SDL2.dll"
+"CONTRA.exe" (Win32). Выгружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\SDL2.dll"
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\advapi32.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\gdi32.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\gdi32full.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\msvcp_win.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\ucrtbase.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\user32.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\win32u.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\imm32.dll". 
+"CONTRA.exe" (Win32). Загружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\zlib1.dll". Сборка модуля выполнена без символов.
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\ole32.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\combase.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\bcryptprimitives.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\oleaut32.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\setupapi.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\cfgmgr32.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\bcrypt.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\shell32.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\SHCore.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\windows.storage.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\profapi.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\powrprof.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\shlwapi.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\cryptsp.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\version.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\winmm.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\winmmbase.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\winmmbase.dll". 
+"CONTRA.exe" (Win32). Выгружено "C:\Windows\System32\winmmbase.dll"
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\uxtheme.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\dwmapi.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\crypt32.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\msasn1.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\clbcatq.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\MMDevAPI.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\propsys.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\devobj.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\avrt.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\dinput8.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\InputHost.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\CoreMessaging.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\twinapi.appcore.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\CoreUIComponents.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\WinTypes.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\rmclient.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\d2d1.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\ntmarta.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\d3d11.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\dxgi.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\hid.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\wintrust.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\XInput1_4.dll". 
+"CONTRA.exe" (Win32). Загружено "D:\Work\ci\2kSem2\CONTRA\x64\Debug\libpng16-16.dll". Сборка модуля выполнена без символов.
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\msctf.dll". 
+"CONTRA.exe" (Win32). Загружено "C:\Windows\System32\TextInputFramework.dll". 
+Поток 0x1768 завершился с кодом 0 (0x0).
+"CONTRA.exe" (Win32). Выгружено "C:\Windows\System32\XInput1_4.dll"
+"CONTRA.exe" (Win32). Выгружено "C:\Windows\System32\avrt.dll"
+"CONTRA.exe" (Win32). Выгружено "C:\Windows\System32\hid.dll"
+"CONTRA.exe" (Win32). Выгружено "C:\Windows\System32\dinput8.dll"
+Поток 0x56c8 завершился с кодом 0 (0x0).
+Поток 0x58d0 завершился с кодом 0 (0x0).
+Поток 0x4b78 завершился с кодом 0 (0x0).
+Поток 0x7468 завершился с кодом 0 (0x0).
+Поток 0x13fc завершился с кодом 0 (0x0).
+Поток 0x5058 завершился с кодом 0 (0x0).
+Поток 0x78c8 завершился с кодом 0 (0x0).
+Программа "[24200] CONTRA.exe" завершилась с кодом 0 (0x0).
